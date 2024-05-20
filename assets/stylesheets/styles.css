@@ -92,3 +92,14 @@ main h2{
 	color: #e1b382;
 	}
 
+footer{
+	height: 50px;
+	text-align: center;
+	font-weight: bolder;
+	font-size: large;
+}
+
+a{
+	text-decoration: none;
+	color: #2d545e;
+}
